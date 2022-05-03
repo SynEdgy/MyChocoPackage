@@ -15,7 +15,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
 <!-- You can embed software files directly into packages, as long as you are not bound by distribution rights. -->
 <!-- * If you are an organization making private packages, you probably have no issues here -->
 <!-- * If you are releasing to the community feed, you need to consider distribution rights. -->
-<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+<package xmlns="https://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>ChocoPackage1</id>
